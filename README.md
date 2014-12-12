@@ -1,3 +1,4 @@
+I am learning how to make changes in this repo. This is my first time using this program.
 datasciencecoursera-repo
 ========================
 
